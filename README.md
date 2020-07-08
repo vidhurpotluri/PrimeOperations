@@ -1,3 +1,2 @@
-# CSCE-314
-JAVA Prime Operations
+# Prime Operations
 CSCE 314 Project 1
